@@ -44,8 +44,6 @@ make docker-run
 - Metrics table
 - PDF report
 
-## 🔖 Badges
-Add these once your repo is on GitHub (replace `USER/REPO`):
 ```
-![CI](https://github.com/USER/REPO/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/rjydviitk/Stock-Forecasting/actions/workflows/ci.yml/badge.svg)
 ```
