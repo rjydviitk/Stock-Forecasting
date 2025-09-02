@@ -1,0 +1,5 @@
+tickers: [AAPL, MSFT, TSLA]
+default:
+  forecast_days: 90
+  look_back: 60
+  train_test_split: 0.8
